@@ -1,0 +1,12 @@
+{
+  "name": "secure-login-form",
+  "version": "1.0.0",
+  "description": "A simple HTML/JS login form with client-side and server-side validation, mimicking Juice Shop's login page.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
